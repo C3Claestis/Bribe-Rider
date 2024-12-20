@@ -1,0 +1,731 @@
+fileFormatVersion: 2
+guid: 4bff2b56946c8ae488a0110044cc7553
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_0
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3736
+        width: 2219
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f77ec3312bc2d409002e6198ff19c8
+      internalID: -659650745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_1
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 3193
+        width: 1836
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c372e8b7e2e34fb56f6f4021bbbdc
+      internalID: -1650757629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_2
+      rect:
+        serializedVersion: 2
+        x: 5428
+        y: 1963
+        width: 2297
+        height: 2254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7602240bb65594c98120a50767695e
+      internalID: -2140397485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3201
+        width: 1379
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe888a5f5902c9b4482f1348966ef307
+      internalID: 1638597275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2686
+        width: 1316
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c0e04adfa1a9c419bbd717d313792e
+      internalID: 2052706675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_5
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1971
+        width: 2894
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880af25c49a52174aa214907279014ec
+      internalID: -358350884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2182
+        width: 1863
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5920e54bf0ab7241bca62b5c242cada
+      internalID: 631636045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2014
+        width: 1719
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24da04ef86ad531409377282e65e002c
+      internalID: 135787580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1213
+        width: 656
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9dcd70132b73c4dbc2dad2ae8c26c6
+      internalID: -2053248263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_9
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1236
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d96764f0c60f44dba2c0cae7623845
+      internalID: 1855728699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 545
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e3279ab955b7648ab1448561ee2b6e
+      internalID: 888633514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_11
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 541
+        width: 699
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161843ea71cc9304a9ebb5f0ff1aa3e9
+      internalID: 901409655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_12
+      rect:
+        serializedVersion: 2
+        x: 4322
+        y: 693
+        width: 289
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f91b9cd5a2ec748a8da78abe0fceb5
+      internalID: -1153760581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_13
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 651
+        width: 366
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a36202c55fbcf41a07ff2f058e17af
+      internalID: -2105265514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_14
+      rect:
+        serializedVersion: 2
+        x: 5584
+        y: 826
+        width: 332
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e89e0f599bce34fb2f63985211215f
+      internalID: -1636549433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_15
+      rect:
+        serializedVersion: 2
+        x: 6154
+        y: 701
+        width: 297
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe19f97aac21049958366be15759d1
+      internalID: -113602503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_16
+      rect:
+        serializedVersion: 2
+        x: 6869
+        y: 881
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21423f1b23989de449b1e0e0c7f22b06
+      internalID: -295285504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_17
+      rect:
+        serializedVersion: 2
+        x: 7389
+        y: 713
+        width: 271
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc8c53e378a2084183134638e02a1fe
+      internalID: -1886411246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_18
+      rect:
+        serializedVersion: 2
+        x: 5725
+        y: 702
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce2f9f49f9e2f64486557bea65ce360
+      internalID: 1789632971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_19
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 822
+        width: 121
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8f134d9d1a4c64d8e8f5265c4a388b
+      internalID: -1259543244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_20
+      rect:
+        serializedVersion: 2
+        x: 6877
+        y: 826
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef52f53b470444040b18784f789ce717
+      internalID: -1635394923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_21
+      rect:
+        serializedVersion: 2
+        x: 6928
+        y: 822
+        width: 121
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16007d59b472cb34fb13b6832d277ca4
+      internalID: 1596537167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_22
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 717
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea874378b6dfde42863ad200f8cbaf0
+      internalID: -1308852225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_23
+      rect:
+        serializedVersion: 2
+        x: 6869
+        y: 686
+        width: 47
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd0d4d4bbf692645a8463211d99567a
+      internalID: -1089368077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Main Menu Bribe Raiders Game (Final)-01_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 240
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7c21f1c7533dc4ebd43ea6adc3b877
+      internalID: -717951736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0bc37c1521a5f4d48a78cd6077283373
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI Main Menu Bribe Raiders Game (Final)-01_0: -659650745
+      UI Main Menu Bribe Raiders Game (Final)-01_1: -1650757629
+      UI Main Menu Bribe Raiders Game (Final)-01_10: 888633514
+      UI Main Menu Bribe Raiders Game (Final)-01_11: 901409655
+      UI Main Menu Bribe Raiders Game (Final)-01_12: -1153760581
+      UI Main Menu Bribe Raiders Game (Final)-01_13: -2105265514
+      UI Main Menu Bribe Raiders Game (Final)-01_14: -1636549433
+      UI Main Menu Bribe Raiders Game (Final)-01_15: -113602503
+      UI Main Menu Bribe Raiders Game (Final)-01_16: -295285504
+      UI Main Menu Bribe Raiders Game (Final)-01_17: -1886411246
+      UI Main Menu Bribe Raiders Game (Final)-01_18: 1789632971
+      UI Main Menu Bribe Raiders Game (Final)-01_19: -1259543244
+      UI Main Menu Bribe Raiders Game (Final)-01_2: -2140397485
+      UI Main Menu Bribe Raiders Game (Final)-01_20: -1635394923
+      UI Main Menu Bribe Raiders Game (Final)-01_21: 1596537167
+      UI Main Menu Bribe Raiders Game (Final)-01_22: -1308852225
+      UI Main Menu Bribe Raiders Game (Final)-01_23: -1089368077
+      UI Main Menu Bribe Raiders Game (Final)-01_24: -717951736
+      UI Main Menu Bribe Raiders Game (Final)-01_3: 1638597275
+      UI Main Menu Bribe Raiders Game (Final)-01_4: 2052706675
+      UI Main Menu Bribe Raiders Game (Final)-01_5: -358350884
+      UI Main Menu Bribe Raiders Game (Final)-01_6: 631636045
+      UI Main Menu Bribe Raiders Game (Final)-01_7: 135787580
+      UI Main Menu Bribe Raiders Game (Final)-01_8: -2053248263
+      UI Main Menu Bribe Raiders Game (Final)-01_9: 1855728699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
